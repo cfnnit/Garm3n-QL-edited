@@ -6274,5 +6274,14 @@ Scheme
 			"font" "resource/fonts/MAC_DING.TTF"
 			"name" "MAC_DING"
 		}
+		"11" //한글폰트
+		{
+			"font" "resource/fonts/MaruBuri-SemiBold.ttf"
+			"name" "kfont"		
+			"koreana"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}
 	}
 }
