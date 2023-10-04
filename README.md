@@ -1,20 +1,13 @@
-# Garm3n QL
+# Garm3n QL-cfnnit
 
 
 <a>LINKS</a>
 ====
 
-[TeamFortress.tv](https://www.teamfortress.tv/33738/ive-updated-some-huds)
+![image](https://github.com/cfnnit/Garm3n-QL-edited/assets/61566693/65368209-3369-48c1-808a-4649e28f512a)
 
-[Screenshot Album](https://imgur.com/a/NuVAM)
-
-[Changelogs](https://github.com/Hypnootize/Garm3n-QL/commits/master)
-
-[Installation](https://imgur.com/a/w3Ah6)
-
-![](https://i.imgur.com/KFZ6BTh.jpg)
 
 <a>CREDITS</a>
 ====
 **Created By:** Garm3n
-
+**Edited By:** Dilmah
